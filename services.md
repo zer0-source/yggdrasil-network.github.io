@@ -29,6 +29,9 @@ The following services are available on the Yggdrasil network, courtesy of our c
   
 - [Yggedit](http://[301:b614:c68e:b27f::1]/) - a reddit like social network/forum
   - Accessible via Yggdrasil at `http://[301:b614:c68e:b27f::1]/`.
+  
+- [Searx](http://[201:861f:b073:6e87:6ce2:2f76:d769:4b6d]/) - a metasearch engine.
+  - Accessible via Yggdrasil at `http://[201:861f:b073:6e87:6ce2:2f76:d769:4b6d]/`.
 
 ### Wikis
 
